@@ -69,5 +69,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🔗 **Follow me on GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+🔗 **Follow me on GitHub:** https://github.com/Yaswanth-Koppanathi
+
 
